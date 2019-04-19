@@ -11,6 +11,12 @@
   + [Identity V 第五人格 园丁](https://github.com/evilH2O2/Chrome-Themes#identity-v-%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC-%E5%9B%AD%E4%B8%81-crx-zip)
   
 <br>
+  
+``` bash
+# 免费 < 付费 < DIY
+```
+ 
+<br>
 
 ---
 
