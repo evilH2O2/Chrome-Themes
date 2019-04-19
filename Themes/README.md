@@ -1,6 +1,10 @@
 # Themes
 
 ``` bash
+# 浏览器直接访问 file:///PATH/path/*.crx
+```
+
+``` bash
 Themes/
 ├── 空银子.crx
 ├── 裸ワイシャツでコーヒーを差し出す双葉理央.crx
