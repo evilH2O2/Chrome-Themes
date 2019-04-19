@@ -9,4 +9,6 @@ Themes/
 ├── README.md
 ├── アズールレーン綾波.crx
 └── アズールレーン翔鶴.crx
+
+0 directories, 7 files
 ```
